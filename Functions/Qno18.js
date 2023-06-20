@@ -12,4 +12,4 @@ console.log(findFactorial(num));
 // Footer navigation
 // Terms
 // Privacy
-// Secu
+// Sec

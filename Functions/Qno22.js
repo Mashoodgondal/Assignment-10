@@ -1,5 +1,12 @@
-// 22.w Write a js program to display all array elements using function.
-let array=[1,2,3,4,5,6,7,8,9,0]
-for (let index = 0; index <= array.length; index++) {
-    console.log(index);
-}
+// 22. Write a JavaScript program to display all array elements using function.
+
+// SOLUTION
+
+function displayArrayElements(arr) {
+    for (let i = 0; i < arr.length; i++) {
+      console.log(arr[i]);
+    }
+  }
+  
+let fruits = ["Apple", "Banana", "Orange", "Grapes"];
+displayArrayElements(fruits);
