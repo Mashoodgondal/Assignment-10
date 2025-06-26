@@ -11,3 +11,21 @@ This repository contains a collection of JavaScript functions and array operatio
 
 ## 📂 Project Structure
 
+## ✅ Requirements
+
+- Any modern browser or Node.js
+- A code editor (e.g., VS Code)
+
+## 🚀 How to Run
+
+### Option 1: In Browser
+
+1. Open `index.html` in a browser.
+2. Use browser dev tools (Console tab) to view the output.
+
+### Option 2: Using Node.js
+
+```bash
+node functions.js
+node arrays.js
+
